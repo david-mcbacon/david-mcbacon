@@ -1,60 +1,24 @@
-# 🌟 About Me
-🏀 Ex-basketball player turned tech virtuoso, coding from the courts to the cloud. Master's in Statistical Methods in Economics. Passion for data engineering, full-stack AI, and e-commerce innovation.
+# 🌟 Creative Full-Stack Engineer
 
-# 🛠️ Experience
-- **Full-Stack AI Engineer (Freelance):** AI-infused web apps with real-time GPT chat interfaces.
-- **Data Engineer (Kontentino):** Built cloud-based data infrastructures for comprehensive analytics.
-- **Big Data & Marketing Analyst (O2):** Segmentation wizard, turning data into marketing gold.
-- **E-Com Maven:** Founded, coded, and scaled online businesses on Shopify and Amazon.
-- **Data & Reporting Specialist (Cofidis):** Automated reporting, married data with banking compliance.
+## About Me
+I'm an athlete-turned-geek, blending frontend engineering with seamless backend functionalities and AI & 3D integrations for a cutting-edge digital experience. With a Master's in Statistical Methods in Economics, I've honed my skills in data engineering, full-stack development, and e-commerce.
 
-# 🌟 What I Bring to the Table
-- 🚀 Tailoring advanced process automations to fit your business like a glove.
-- 🤖 Embedding AI into digital experiences, creating chatbots that understand your customers' every need.
-- 🌍 Crafting conversion-driven websites and web apps that grow with your business.
-- 📊 From raw data to refined strategy with top-tier data engineering and analysis.
-- 📲 Leading the charge in online retail through Amazon and Shopify expertise.
-- 🎯 Google Ads mastery to drive your growth and Telegram/Discord bots for cutting-edge community interaction.
+## Skills
+- **Frontend**: Passionate about creating visually appealing and highly functional user interfaces from the ground up.
+- **Backend**: I love creating APIs, designing backend systems, and building database architectures for seamless operations.
+- **Data**: Specializing in data engineering, I combine multiple data sources and conduct analytics to generate insights.
+- **AI**: I transform business processes with AI, integrating LLMs to automate tasks and create dynamic chatbots.
+- **3D**: I specialize in integrating 3D graphics into websites, bringing 3D models and animations to life online.
 
-# 💻 Tech Stack
-## 🐍 Languages
-- **Python** - Backbone of my programming and AI development.
-- **SQL** - Essential for data manipulation and retrieval.
-- **TypeScript** - For scalable web applications.
-- **JavaScript** - Powers interactive web features.
-- **HTML & CSS** - Basics for layout and styling.
+## Tech Stack
+As a code addict, my journey through tech has been fueled by a passion for learning and mastering a wide array of development frameworks and languages.
 
-## 🚀 Frameworks
-- **FastAPI** - High-performance APIs.
-- **Supabase** - Real-time, scalable backends.
-- **Next.js** - For server-rendered React apps.
-- **React** - Design visions turned into realities.
-- **Tailwind CSS & Flask** - For sleek UI and web apps.
+- **Languages**: TypeScript, JavaScript, Python, SQL
+- **Frameworks**: Next.js, React, Tailwind CSS
+- **Databases**: PostgreSQL, MySQL, Google Big Query
+- **Data Tools**: DBT, Airbyte, Prefect
+- **AI**: GPTs, Langchain, RAG
+- **Deployment**: Docker, Nginx, Linux
 
-## 💾 Data Engineering
-- **Prefect & DBT** - Orchestration and data modeling.
-- **Airbyte** - Master of data integration.
-- **Excel & Google Analytics** - Data analysis and reporting.
-
-## 🗄️ Databases
-- **PostgreSQL & MySQL** - Robust and versatile databases.
-- **BigQuery & SQL Server** - Large-scale analysis.
-- **MongoDB & Weaviate** - Flexibility and ML-powered searches.
-
-## 🤖 Artificial Intelligence
-- **GPT-3.5 & GPT-4** - Advanced conversational AI.
-- **OpenAI Embeddings & Whisper** - AI-driven precision.
-- **Langchain & RAG** - Modular AI components.
-
-## 📦 Deployment & Operations
-- **Docker & Linux** - For deployment consistency.
-- **Nginx** - High-performance web serving.
-- **Digital Ocean Droplets** - Speed, reliability, and consistency
-- **AWS EC2** - Meeting computational demands of any scale
-
-
-# 🏆 Personal
-Mental agility through breathwork, functional patterns, and icy swims. Family MVP.
-
-# 🔗 Connect
-Portfolio: [My Portolio Web App](https://www.davidslaninka.dev/)
+## Connect
+Portfolio: [davidslaninka.dev](https://www.davidslaninka.dev/)
