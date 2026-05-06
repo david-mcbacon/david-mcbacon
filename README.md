@@ -25,4 +25,4 @@ React · TypeScript · Framer Motion · Three.js (r3f/drei) · Python · Node.js
 
 ---
 
-**[framercoder.com](https://framercoder.com)** | **[vibeframe.com](https://vibefra,me)** | **[bachoff.studio](https://bachoff.studio)**
+**[framercoder.com](https://framercoder.com)**
